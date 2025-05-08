@@ -1,5 +1,5 @@
 mode con: cols=115 lines=18
-title Office 365 Activator by Muki
+title Office 365 Activator by Me
 @echo off
 chcp 65001 > nul
 cls
@@ -22,7 +22,7 @@ echo "  | |  | || |_ | |_  _   ___  ___     __) | / /_ | |__        /  \    ___ 
 echo "  | |  | ||  _||  _|| | / __|/ _ \   |__ < | '_ \|___ \      / /\ \  / __|| __|| |\ \ / // _` || __|/ _ \ | '__|
 echo "  | |__| || |  | |  | || (__|  __/   ___) || (_)| ___) |    / ____ \| (__ | |_ | | \ V /| (_| || |_| (_) || |
 echo "   \____/ |_|  |_|  |_| \___|\___|  |____/  \___/|____/    /_/    \_\\___| \__||_|  \_/  \__,_| \__|\___/ |_|
-echo      Created by Muki                                                                         github.com/muki01
+echo      Created by People for People                                                                        :)
 echo.
 echo.
 echo                                             1. Activate Office 365
